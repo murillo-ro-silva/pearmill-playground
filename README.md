@@ -35,7 +35,7 @@ This is just a fun repo to keep some sql queries!
     - Ensure you have Git installed on your machine.
     - Clone the required repository:
         ```sh
-        git clone https://github.com/murillo-ro-silva/pearmill-playground-test.git
+        git clone https://github.com/murillo-ro-silva/pearmill-playground.git
         ```
 
 6. **Run the Script**:
@@ -45,4 +45,4 @@ This is just a fun repo to keep some sql queries!
         python pearmill_sql_questions.py
         ```
 
-Ensure you replace the path to the CSV file (`./pearmill-playground-test/data.csv`) with the correct path if necessary.
+Ensure you replace the path to the CSV file (`./pearmill-playground/data.csv`) with the correct path if necessary.
