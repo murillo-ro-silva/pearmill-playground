@@ -1,4 +1,4 @@
-# pearmill-playground-test
+# pearmill-playground
 This is just a fun repo to keep some sql queries!
 
 # Ways to Run:
